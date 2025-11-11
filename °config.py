@@ -1,0 +1,2 @@
+# Bot tokeni
+BOT_TOKEN = "SIZNING_TOKENINGIZ"
